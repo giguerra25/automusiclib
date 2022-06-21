@@ -1,0 +1,5 @@
+If error ffmpeg or ffprobe (https://evermeet.cx/ffmpeg/)
+    Follow instructions to download (https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/)
+    Move the executables in the location /usr/local/bin (https://aaronolsen.github.io/tutorials/stereomorph/installing_ffmpeg.html)
+
+how to fork and sync the forked repo (https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/update-github-repositories-with-changes-by-others/)

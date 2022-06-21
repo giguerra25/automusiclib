@@ -1,0 +1,4 @@
+spectro @ git+https://github.com/giguerra25/spectro.git
+mutagen==1.45.1
+PyYAML==5.3.1
+rich==12.4.4
