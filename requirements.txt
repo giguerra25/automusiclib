@@ -1,4 +1,18 @@
-spectro @ git+https://github.com/giguerra25/spectro.git
+commonmark==0.9.1
+cycler==0.11.0
+fonttools==4.33.3
+kiwisolver==1.4.3
+matplotlib==3.5.2
 mutagen==1.45.1
+numpy==1.22.4
+packaging==21.3
+Pillow==9.1.1
+pydub==0.25.1
+Pygments==2.12.0
+pyparsing==3.0.9
+python-dateutil==2.8.2
 PyYAML==5.3.1
 rich==12.4.4
+scipy==1.8.1
+six==1.16.0
+spectro @ git+https://github.com/giguerra25/spectro.git@c7f597d49a5653c9f26ab9e170a02a11757c2424
