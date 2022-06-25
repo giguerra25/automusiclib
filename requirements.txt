@@ -15,4 +15,4 @@ PyYAML==5.3.1
 rich==12.4.4
 scipy==1.8.1
 six==1.16.0
-spectro @ git+https://github.com/giguerra25/spectro.git@c7f597d49a5653c9f26ab9e170a02a11757c2424
+spectro @ git+https://github.com/giguerra25/spectro.git@548b7718aa450149c7a3a79a26126131910ae885
